@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page{
+    background-color: #b8afaf81;
+    float:right;
+    width:33%;
+    margin-top:8%;
+    margin-right: 10%;
+    height:75%;
+    box-shadow: 1px 1px 16px 1px;
+}
+
+.page-container{
+    overflow: hidden;
+    height:100%;
+    
+}
+.login-container{
+    padding:8%;
+    
+}
+
+.custom-login-btn{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+.background-img{
+    height:100%;
+    width:100%;
+    background-image: url(https://picsum.photos/1000?random); 
+}
