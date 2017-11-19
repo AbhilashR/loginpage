@@ -17,10 +17,6 @@
     </pre>
 
 <h2>Result</h2>
-<a href="https://youtu.be/Jm8oUANqmZU" target="_blank">Login Page Demo</a>
-<iframe type="text/html" 
-    width="640" 
-    height="385" 
-    src="https://youtu.be/Jm8oUANqmZU"
-    frameborder="0" align="center">
-</iframe>
+[![Alt text for your video](https://img.youtube.com/vi/Jm8oUANqmZU/0.jpg)(https://www.youtube.com/embed/Jm8oUANqmZU)
+
+
