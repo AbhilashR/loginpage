@@ -13,6 +13,5 @@
         login.html : A skeleton for login page 
         css/styles.css : Defined selectors to decorate contents of skeleton.
         css/bootstrap.min.css: More Neat presentation, available at  https://getbootstrap.com/docs/3.3/getting-started/
-
-        <strong>Note:<strong>Background image is rendering dynamically from other service https://picsum.photos.
+        <strong>Note:</strong>Background image is rendering dynamically from other service https://picsum.photos.
     </pre>
