@@ -17,4 +17,5 @@
     </pre>
 
 <h2>Result</h2>
-[![Login Page Demo](http://img.youtube.com/vi/Jm8oUANqmZU/0.jpg)](http://www.youtube.com/watch?v=Jm8oUANqmZU)
+<a href="https://youtu.be/Jm8oUANqmZU" target="_blank">Login Page Demo</a>
+
