@@ -15,3 +15,12 @@
         css/bootstrap.min.css: More Neat presentation, available at  https://getbootstrap.com/docs/3.3/getting-started/
         <strong>Note:</strong>Background image is rendering dynamically from other service https://picsum.photos.
     </pre>
+
+<h2>Result</h2>
+<a href="https://youtu.be/Jm8oUANqmZU" target="_blank">Login Page Demo</a>
+<iframe type="text/html" 
+    width="640" 
+    height="385" 
+    src="https://youtu.be/Jm8oUANqmZU"
+    frameborder="0" align="center">
+</iframe>
